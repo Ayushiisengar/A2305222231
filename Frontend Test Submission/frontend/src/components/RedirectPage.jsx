@@ -1,4 +1,4 @@
-// src/components/RedirectPage.jsx
+
 import { useEffect } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 
