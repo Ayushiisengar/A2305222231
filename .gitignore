@@ -1,0 +1,11 @@
+# Node
+node_modules/
+*.log
+.env
+
+# Vite / build
+frontend/node_modules/
+frontend/dist/
+
+# Optional
+.DS_Store
